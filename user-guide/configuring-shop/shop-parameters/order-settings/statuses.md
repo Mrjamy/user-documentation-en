@@ -30,7 +30,7 @@ You can create a new status with the "Add new order status" button at the top. T
 Fill out the form:
 
 * **Status name**. Keep it very short and distinctive.
-* **Icon**. You can use any 16\*16 icon; for instance, the free FamFamFam Silk icon set: [http://www.famfamfam.com/lab/icons/silk/](http://www.famfamfam.com/lab/icons/silk/).
+* **Icon**. You can use any 16\*16 icon.
 * **Color**. You should strive to have the status' color match the existing colors \(if relevant\). The default color usages are:
   * Red/Orange: canceled or refunded orders,
   * Crimson red: payment error,
